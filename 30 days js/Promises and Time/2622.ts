@@ -1,4 +1,4 @@
-class TimeLimitedCache {
+class TimeLimitedCache2 {
     cache: Record<number, { value: number, timer: ReturnType<typeof setTimeout> }>;
 
     constructor() {
