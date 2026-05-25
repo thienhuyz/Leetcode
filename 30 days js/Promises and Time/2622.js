@@ -43,3 +43,4 @@ TimeLimitedCache.prototype.count = function () {
  * timeLimitedCache.get(1) // 42
  * timeLimitedCache.count() // 1
  */
+
